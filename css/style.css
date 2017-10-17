@@ -241,6 +241,7 @@ h2 {
     background-color: #fff;
     color:#000;
     border-color: #fff;
+	
 }
 .second-btn {
     background-color: #34495e;
@@ -1288,12 +1289,6 @@ h2 {
     .mgh-heading{
         margin-top: 50%;
     }
-    .text-whatwedo-right{
-        text-align:center;
-    }
-    .text-whatwedo-left{
-        text-align:center;
-    }
 }
 
 
@@ -1324,12 +1319,6 @@ h2 {
     .mgh-heading{
         margin-top: 50%;
     }
-    .text-whatwedo-right{
-        text-align:center;
-    }
-    .text-whatwedo-left{
-        text-align:center;
-    }
 }
 
 @media (max-width: 980px)  {
@@ -1342,12 +1331,6 @@ h2 {
     }
     .mgh-heading{
         margin-top: 50%;
-    }
-    .text-whatwedo-right{
-        text-align:center;
-    }
-    .text-whatwedo-left{
-        text-align:center;
     }
 }
 
@@ -1449,12 +1432,6 @@ h2 {
     margin-top: 250px;
     margin-bottom: 145px;
 }
-    .text-whatwedo-right{
-        text-align:center;
-    }
-    .text-whatwedo-left{
-        text-align:center;
-    }
     .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
         margin-left: -151px;
         margin-right: 10px;
@@ -1691,7 +1668,10 @@ h2 {
 }
 
 .active {
-  background-color: #717171;
+ /* background-color: #717171; */
+	background-color: #283644;
+    border-radius: 5px;
+    color: #537a90;
 }
 .active-card {
   background-color: #ffffff;
