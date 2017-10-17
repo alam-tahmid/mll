@@ -293,7 +293,8 @@
 }
 .cb-slideshow2 li div p {
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    font-size: 20px;
+    font-size: 35px;
+    margin-top: 30px !important;
     color:#fff;
 }
 .cb-slideshow2 li:nth-child(1) span {
@@ -382,9 +383,9 @@
 
 @media screen and (max-width: 1140px) {
     .cb-slideshow2 li div h3 { font-size: 40px }
-    .cb-slideshow2 li div p  { font-size: 25px}
+    .cb-slideshow2 li div p  { font-size: 30px}
 }
 @media screen and (max-width: 600px) {
     .cb-slideshow2 li div h3 { font-size: 40px }
-    .cb-slideshow2 li div p  { font-size: 18px}
+    .cb-slideshow2 li div p  { font-size: 25px}
 }

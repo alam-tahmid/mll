@@ -1230,9 +1230,13 @@ h2 {
     color: #fff;
     font-weight: bold;
     font-size: 72px;
-    margin-top: 190px;
-    margin-bottom: 80px;
+    margin-top: 140px;
+    margin-bottom: 120px;
 }
+.ml-50px {
+margin-left: 50px;
+}
+
 .mgh-tag{
     color: #fff;
     font-size: 24px;
